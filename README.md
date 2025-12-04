@@ -10,7 +10,7 @@ The following three Jupyter Notebooks ('.ipynb' files) are included:
 |**'WNF.ipynb'**| From a general homogeneous polynomial to a Weierstrass Normal Form |
 |**'Quadrics.ipynb'**| From two quadric surfaces in P^3 to a Weierstrass Normal Form in P^2 |
 
-### Requirements
+## Requirements
 
 To execute and interact with these notebooks, you must have Julia and OSCAR installed. 
 For further installation details and help, please visit 'https://www.oscar-system.org/'.
