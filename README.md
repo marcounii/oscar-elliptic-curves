@@ -7,7 +7,9 @@ This repository contains the OSCAR code used for the computational work supporti
 The following three Jupyter Notebooks ('.ipynb' files) are included:
 
 |**'Addition_law.ipynb'**| Implemented Group Law on an Elliptic Curve |
+
 |**'WNF.ipynb'**| From a general homogeneous polynomial to a Weierstrass Normal Form |
+
 |**'Quadrics.ipynb'**| From two quadric surfaces in P^3 to a Weierstrass Normal Form in P^2 |
 
 ## Requirements
