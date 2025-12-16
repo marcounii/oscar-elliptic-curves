@@ -1,6 +1,6 @@
-# Programming with OSCAR
+# Elliptic Curves: From Theory to Computation
 
-This repository contains the OSCAR code used for the computational work supporting my bachelor thesis: **Programming with OSCAR**.
+This repository contains the OSCAR code used for the computational work supporting my bachelor thesis: **Elliptic Curves: From Theory to Computation**.
 
 ## Repository Contents
 
